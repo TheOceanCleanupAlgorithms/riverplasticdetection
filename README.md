@@ -1,8 +1,8 @@
 This repository contains the data and code used for generating the result as present in our study. Here we provide instructions regarding how to start training.
 
-# Tensorflow object detection API
+# Based on Tensorflow object detection API
+https://github.com/tensorflow/models/tree/master/research/object_detection
 
-Open CMD/Anaconda (admin)  
 ## Preparation
 
 Give python path direction variable to these folders
