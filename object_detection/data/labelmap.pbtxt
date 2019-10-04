@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'plastic'
+}
+
+item {
+  id: 2
+  name: 'organic'
+}
+
+item {
+  id: 3
+  name: 'rest'
+}
