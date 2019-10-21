@@ -1,5 +1,7 @@
 This repository contains the data and code used for generating the result as present in our study. Here we provide instructions regarding how to start training.
 
+Data and images are found in object_detection/images
+
 # Based on Tensorflow object detection API
 https://github.com/tensorflow/models/tree/master/research/object_detection
 
